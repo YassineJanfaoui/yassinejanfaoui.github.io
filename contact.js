@@ -21,7 +21,7 @@ function submitForm(e) {
     var message = getInputVal('message');
 
     saveMessages(name, lastname, email, message);
-    window.location.replace("HomePage.html")
+    window.location.replace("index.html")
 }
 
 function getInputVal(id) {
