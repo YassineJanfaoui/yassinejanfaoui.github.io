@@ -1,0 +1,61 @@
+.carousel{
+    width: 850px;
+    height: 450px;
+
+    margin-left: 120px;
+}
+.captiontext{
+    color: black
+}
+.intro{
+    font-size: 1.25em;
+
+}
+.imges{
+    width: 850px;
+    height: 450px;
+}
+.twittericon{
+    color: darkcyan;
+}
+.facebookicon{
+    color: darkblue;
+}
+.youtubeicon{
+    color: darkred;
+}
+body{
+    padding-top: 57px
+}
+.animalimages{
+ height: 550px;
+ width: 600px;
+ margin-bottom: 50px;
+}
+.text{
+    margin-right: 45px;
+    margin-left: 45px;
+}
+.icons{
+    margin-left: 45px;
+}
+.typesofanimals{
+    margin-left: 45px;
+}
+.imagesd{
+    margin-left: 200px
+}
+.titre{
+    margin-left: 170px
+}
+.wheretofind{
+    margin-left: 45px
+}
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  display: block;
+}
+.imagesr{
+    margin-top: 60px
+}
